@@ -1,4 +1,4 @@
-# Portfolio_Part1
+# Portfolio Allocation_Part1
 The file sp500_2022.csv contains daily returns for the (CRSP) S&P500 value-weighted
 index with dividends (column vwretd) from 1/3/1972 through 12/31/2021. Download
 the daily U.S. Treasury yield curve from here. That file has the daily parameters for the
